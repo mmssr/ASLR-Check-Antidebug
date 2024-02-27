@@ -22,6 +22,6 @@ Small crummy ChatGPT POC for an antidebug technique to check if ASLR is disabled
 If you want to test this out, just manually edit the dynamic_address flags in the DLL characteristics portion of the PE optional header. 
 
 
-TODO: 
-make an actual c POC so people dont think I am a fucking idiot
-create as shellcode and inline into c
+TODO:   
+* Make an actual C POC so people dont think I am a fucking idiot  
+* Create as shellcode and inline into C
